@@ -15,8 +15,7 @@
 
 **Как установить? / How to install it?**
 
-В архиве есть файл с туториал который называется "OPENME". / In the folder there's a file called "OPENME"
-
+В архиве есть файл с туториал который называется "OPENME". / In the folder there's a file called "OPENME". Open it and follow the instructions.
 
 **Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени? / # Will OLDRBXIcons be in developement for a long time?**
 
