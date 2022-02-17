@@ -10,7 +10,7 @@
 
 **Это скрипт? / Does it uses scripts?**
 
-Нет. Это замена файлов. Их долго искать так что они в одном сборнике. / Nope. It's just change of the files. It's way long to search for them, so they are put in one collection.
+Нет. Это замена файлов. Их долго искать так что они в одном сборнике. / Nope. It's just change of the files. It's way too long to search for them, so they are put in one collection.
 
 
 **Как установить? / How to install it?**
